@@ -1,0 +1,16 @@
+D:\Vasnie Progi\C# projects\ProjectFinalCsharp\bin\Debug\net8.0-windows\ProjectFinalCsharp.exe
+D:\Vasnie Progi\C# projects\ProjectFinalCsharp\bin\Debug\net8.0-windows\ProjectFinalCsharp.deps.json
+D:\Vasnie Progi\C# projects\ProjectFinalCsharp\bin\Debug\net8.0-windows\ProjectFinalCsharp.runtimeconfig.json
+D:\Vasnie Progi\C# projects\ProjectFinalCsharp\bin\Debug\net8.0-windows\ProjectFinalCsharp.dll
+D:\Vasnie Progi\C# projects\ProjectFinalCsharp\bin\Debug\net8.0-windows\ProjectFinalCsharp.pdb
+D:\Vasnie Progi\C# projects\ProjectFinalCsharp\obj\Debug\net8.0-windows\ProjectFinalCsharp.Form1.resources
+D:\Vasnie Progi\C# projects\ProjectFinalCsharp\obj\Debug\net8.0-windows\ProjectFinalCsharp.csproj.GenerateResource.cache
+D:\Vasnie Progi\C# projects\ProjectFinalCsharp\obj\Debug\net8.0-windows\ProjectFinalCsharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vasnie Progi\C# projects\ProjectFinalCsharp\obj\Debug\net8.0-windows\ProjectFinalCsharp.AssemblyInfoInputs.cache
+D:\Vasnie Progi\C# projects\ProjectFinalCsharp\obj\Debug\net8.0-windows\ProjectFinalCsharp.AssemblyInfo.cs
+D:\Vasnie Progi\C# projects\ProjectFinalCsharp\obj\Debug\net8.0-windows\ProjectFinalCsharp.csproj.CoreCompileInputs.cache
+D:\Vasnie Progi\C# projects\ProjectFinalCsharp\obj\Debug\net8.0-windows\ProjectFinalCsharp.dll
+D:\Vasnie Progi\C# projects\ProjectFinalCsharp\obj\Debug\net8.0-windows\refint\ProjectFinalCsharp.dll
+D:\Vasnie Progi\C# projects\ProjectFinalCsharp\obj\Debug\net8.0-windows\ProjectFinalCsharp.pdb
+D:\Vasnie Progi\C# projects\ProjectFinalCsharp\obj\Debug\net8.0-windows\ProjectFinalCsharp.genruntimeconfig.cache
+D:\Vasnie Progi\C# projects\ProjectFinalCsharp\obj\Debug\net8.0-windows\ref\ProjectFinalCsharp.dll
